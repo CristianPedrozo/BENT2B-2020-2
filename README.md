@@ -12,3 +12,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 
 - Daniel Guzman, dguzman-ort
 - Ricardo Capelli, rcapelli
+- Cristian Pedrozo, cristianspedrozo
